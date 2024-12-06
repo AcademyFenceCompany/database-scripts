@@ -1,72 +1,72 @@
 original_product_id,product_details_id,product_id,size1,size2,size3,style,speciality,material,spacing,color,coating
-364,NULL,NULL,48in x 100ft,2 in. x 4 in.,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-365,NULL,NULL,48in x 100ft,2 in. x 4 in.,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-366,NULL,NULL,48in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-367,NULL,NULL,60in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-368,NULL,NULL,72in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-371,NULL,NULL,36in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-372,NULL,NULL,48in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-379,NULL,NULL,60in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-380,NULL,NULL,72in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-381,NULL,NULL,36in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-382,NULL,NULL,48in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-383,NULL,NULL,60in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-384,NULL,NULL,72in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-385,NULL,NULL,36in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-386,NULL,NULL,48in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-387,NULL,NULL,48in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Brown,PVC
-388,NULL,NULL,48in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Brown,PVC
-389,NULL,NULL,48in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,White,PVC
-390,NULL,NULL,48in x 100ft,1 in. x 1 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-391,NULL,NULL,48in x 100ft,1 in. x 1 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-392,NULL,NULL,48in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-393,NULL,NULL,48in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-394,NULL,NULL,48in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-395,NULL,NULL,48in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-396,NULL,NULL,24in x 50ft,3 in. x 2 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-398,NULL,NULL,36in x 50ft,3 in. x 2 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-399,NULL,NULL,48in x 50ft,3 in. x 2 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-400,NULL,NULL,36in x 50ft,3 in. x 2 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-402,NULL,NULL,48in x 50ft,3 in. x 2 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-408,NULL,NULL,48in x 100ft,1-1/2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-410,NULL,NULL,48in x 100ft,1-1/2 in. x 4 in.,14 Gauge (core),NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-412,NULL,NULL,48in x 100ft,1 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-413,NULL,NULL,60in x 100ft,1 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-414,NULL,NULL,48in x 100ft,1 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-415,NULL,NULL,60in x 100ft,1 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-43070,NULL,NULL,72in x 100ft,1 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43069,NULL,NULL,24in x 100ft,1 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43054,NULL,NULL,48in x 100ft,2 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43055,NULL,NULL,72in x 100ft,2 in. x 2 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43058,NULL,NULL,48in x 50ft,1/2 in. x 1 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43060,NULL,NULL,36in x 50ft,1/2 in. x 1 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43062,NULL,NULL,24in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-15251,NULL,NULL,36in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-15252,NULL,NULL,36in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-15253,NULL,NULL,60in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-15254,NULL,NULL,60in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-15255,NULL,NULL,72in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-15256,NULL,NULL,72in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-15257,NULL,NULL,36in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-15258,NULL,NULL,36in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-15259,NULL,NULL,60in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-15260,NULL,NULL,60in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-15261,NULL,NULL,72in x 100ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-15262,NULL,NULL,72in x 50ft,1 in. x 1 in.,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-16407,NULL,NULL,60in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-16408,NULL,NULL,72in x 100ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
-16409,NULL,NULL,36in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-18522,NULL,NULL,36in x 100ft,3,,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35806,NULL,NULL,24in x 100ft,1 in. x 1 in.,x 16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35805,NULL,NULL,24in x 50ft,1 in. x 1 in.,x 16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35803,NULL,NULL,72in x 100ft,1-1/2 in. x 4 in.,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35802,NULL,NULL,60in x 100ft,1-1/2 in. x 4 in.,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35801,NULL,NULL,48in x 100ft,1-1/2 in. x 4 in.,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35799,NULL,NULL,24in x 50ft,2 in. x 4 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35818,NULL,NULL,36in x 100ft,2 in. x 4 in.,11 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35820,NULL,NULL,28in x 100ft,2 in. x 4 in.,11 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-35839,NULL,NULL,48in  x 100ft,2 in. x 4 in.,11 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-36934,NULL,NULL,48in x 50ft,1 in. x 1 in.,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-42660,NULL,NULL,48in x 100ft,1 in. x 1 in.,13 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43725,NULL,NULL,49 x 100,1 3/4 in. x,1 3/4in 14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
-43731,NULL,NULL,72in x 100ft,2 in. x 4 in.,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+364,NULL,NULL,48in x 100ft,NULL,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+365,NULL,NULL,48in x 100ft,NULL,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+366,NULL,NULL,48in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+367,NULL,NULL,60in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+368,NULL,NULL,72in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+371,NULL,NULL,36in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+372,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+379,NULL,NULL,60in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+380,NULL,NULL,72in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+381,NULL,NULL,36in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+382,NULL,NULL,48in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+383,NULL,NULL,60in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+384,NULL,NULL,72in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+385,NULL,NULL,36in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+386,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+387,NULL,NULL,48in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Brown,PVC
+388,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Brown,PVC
+389,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,White,PVC
+390,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+391,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+392,NULL,NULL,48in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+393,NULL,NULL,48in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+394,NULL,NULL,48in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+395,NULL,NULL,48in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+396,NULL,NULL,24in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+398,NULL,NULL,36in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+399,NULL,NULL,48in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+400,NULL,NULL,36in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+402,NULL,NULL,48in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+408,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+410,NULL,NULL,48in x 100ft,NULL,14 Gauge (core),NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+412,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+413,NULL,NULL,60in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+414,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+415,NULL,NULL,60in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+43070,NULL,NULL,72in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43069,NULL,NULL,24in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43054,NULL,NULL,48in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43055,NULL,NULL,72in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43058,NULL,NULL,48in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43060,NULL,NULL,36in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43062,NULL,NULL,24in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+15251,NULL,NULL,36in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+15252,NULL,NULL,36in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+15253,NULL,NULL,60in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+15254,NULL,NULL,60in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+15255,NULL,NULL,72in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+15256,NULL,NULL,72in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+15257,NULL,NULL,36in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+15258,NULL,NULL,36in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+15259,NULL,NULL,60in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+15260,NULL,NULL,60in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+15261,NULL,NULL,72in x 100ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+15262,NULL,NULL,72in x 50ft,NULL,16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+16407,NULL,NULL,60in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+16408,NULL,NULL,72in x 100ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Green,PVC
+16409,NULL,NULL,36in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+18522,NULL,NULL,36in x 100ft,NULL,,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35806,NULL,NULL,24in x 100ft,NULL,x 16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35805,NULL,NULL,24in x 50ft,NULL,x 16 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35803,NULL,NULL,72in x 100ft,NULL,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35802,NULL,NULL,60in x 100ft,NULL,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35801,NULL,NULL,48in x 100ft,NULL,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35799,NULL,NULL,24in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35818,NULL,NULL,36in x 100ft,NULL,11 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35820,NULL,NULL,28in x 100ft,NULL,11 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+35839,NULL,NULL,48in  x 100ft,NULL,11 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+36934,NULL,NULL,48in x 50ft,NULL,14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+42660,NULL,NULL,48in x 100ft,NULL,13 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43725,NULL,NULL,49 x 100,NULL,1 3/4in 14 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
+43731,NULL,NULL,72in x 100ft,NULL,12.5 Gauge,NULL,NULL,PVC Coated Steel,NULL,Black,PVC
