@@ -1,0 +1,9 @@
+original_product_id,family_category_id,shipping_details_id,product_id,weight,shipping_length,shipping_width,shipping_height,shipping_class,free_shipping,special_shipping,amount_per_box,description
+550,9,NULL,NULL,295.0,18.0,18.0,48.0,WWF,0,0,NULL,Academy Fence Company Field and Game Fence
+551,9,NULL,NULL,350.0,18.0,18.0,72.0,WWF,0,0,NULL,Academy Fence Company Field and Game Fence
+42756,9,NULL,NULL,395.0,18.0,18.0,96.0,WWF,0,0,NULL,Academy Fence Company Field and Game Fence
+43452,9,NULL,NULL,179.0,14.0,14.0,72.0,WWF,0,0,NULL,Academy Fence Company Field and Game Fence
+43451,9,NULL,NULL,151.0,14.0,14.0,60.0,WWF,0,0,NULL,Academy Fence Company Field and Game Fence
+43450,9,NULL,NULL,122.0,14.0,14.0,48.0,WWF,0,0,NULL,Academy Fence Company Field and Game Fence
+43741,9,NULL,NULL,395.0,18.0,18.0,96.0,WWF,0,0,NULL,Academy Fence Company Field and Game Fence
+43449,9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,NULL,Academy Fence Company Field and Game Fence
