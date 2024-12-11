@@ -1,0 +1,20 @@
+original_product_id,family_category_id,shipping_details_id,product_id,weight,shipping_length,shipping_width,shipping_height,shipping_class,free_shipping,special_shipping,amount_per_box,description
+543,5,NULL,NULL,0.0,NULL,NULL,NULL,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+545,5,NULL,NULL,12.0,9.0,9.0,25.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+552,5,NULL,NULL,17.0,9.0,9.0,37.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+553,5,NULL,NULL,22.0,9.0,9.0,49.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+554,5,NULL,NULL,12.0,9.0,9.0,25.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+555,5,NULL,NULL,17.0,9.0,9.0,37.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+556,5,NULL,NULL,22.0,9.0,9.0,49.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+43077,5,NULL,NULL,44.0,10.0,10.0,25.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+43076,5,NULL,NULL,67.0,8.0,8.0,73.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+43075,5,NULL,NULL,55.0,8.0,8.0,61.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+43065,5,NULL,NULL,96.0,10.0,10.0,37.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+43067,5,NULL,NULL,150.0,11.0,11.0,61.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+43066,5,NULL,NULL,131.0,12.0,12.0,48.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+35811,5,NULL,NULL,105.0,12.0,12.0,49.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+35810,5,NULL,NULL,75.0,12.0,12.0,36.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+35809,5,NULL,NULL,50.0,8.0,8.0,49.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+35808,5,NULL,NULL,33.0,8.0,8.0,37.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+35807,5,NULL,NULL,22.0,8.0,8.0,25.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence
+43789,5,NULL,NULL,111.0,15.0,15.0,61.0,WWF,0,0,1,Academy Fence Company Hardware Cloth - Vinyl PVC Welded Wire Fence

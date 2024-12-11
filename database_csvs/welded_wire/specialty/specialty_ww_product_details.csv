@@ -1,0 +1,226 @@
+original_product_id,family_category_id,product_details_id,product_id,size1,size2,size3,style,speciality,material,spacing,color,coating
+42140,14,NULL,NULL,18 in. x 100 ft.,1/2 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42141,14,NULL,NULL,24 in. x 100 ft.,1/2 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42142,14,NULL,NULL,48 in. x 100 ft.,1/2 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42176,14,NULL,NULL,12 in. x 100 ft.,1/2 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42177,14,NULL,NULL,18 in. x 100 ft.,1/2 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42178,14,NULL,NULL,24 in. x 100 ft.,1/2 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42179,14,NULL,NULL,48 in. x 100 ft.,1/2 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42189,14,NULL,NULL,18 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42190,14,NULL,NULL,24 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42191,14,NULL,NULL,36 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42192,14,NULL,NULL,48 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42193,14,NULL,NULL,24 in. x 100 ft.,1 in. x 1 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42194,14,NULL,NULL,36 in. x 100 ft.,1 in. x 1 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42195,14,NULL,NULL,48 in. x 100 ft.,1 in. x 1 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42196,14,NULL,NULL,60 in. x 100 ft.,1 in. x 1 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42213,14,NULL,NULL,28 in. x 100 ft.,2 in. x 4 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42214,14,NULL,NULL,36 in. x 100 ft.,2 in. x 4 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42215,14,NULL,NULL,48 in. x 100 ft.,2 in. x 4 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42216,14,NULL,NULL,28 in. x 100 ft.,2 in. x 4 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42217,14,NULL,NULL,36 in. x 100 ft.,2 in. x 4 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42218,14,NULL,NULL,48 in. x 100 ft.,2 in. x 4 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42220,14,NULL,NULL,6 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42221,14,NULL,NULL,7.5 in. x 100,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42222,14,NULL,NULL,10.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42223,14,NULL,NULL,12 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42224,14,NULL,NULL,13.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42225,14,NULL,NULL,15 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42226,14,NULL,NULL,16.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42227,14,NULL,NULL,18 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42228,14,NULL,NULL,19.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42229,14,NULL,NULL,21 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42230,14,NULL,NULL,22.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42231,14,NULL,NULL,24 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42232,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42233,14,NULL,NULL,43.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42234,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42235,14,NULL,NULL,54 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42236,14,NULL,NULL,57 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42237,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42238,14,NULL,NULL,63 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42239,14,NULL,NULL,66 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42240,14,NULL,NULL,6 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42241,14,NULL,NULL,7.5 in. x 100,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42242,14,NULL,NULL,10.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42243,14,NULL,NULL,12 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42244,14,NULL,NULL,13.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42245,14,NULL,NULL,15 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42246,14,NULL,NULL,16.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42247,14,NULL,NULL,18 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42248,14,NULL,NULL,19.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42249,14,NULL,NULL,21 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42250,14,NULL,NULL,22.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42251,14,NULL,NULL,24 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42252,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42253,14,NULL,NULL,43.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42254,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42255,14,NULL,NULL,54 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42256,14,NULL,NULL,57 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42257,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42258,14,NULL,NULL,63 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42259,14,NULL,NULL,66 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42260,14,NULL,NULL,6 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42261,14,NULL,NULL,7.5 in. x 100,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42262,14,NULL,NULL,10.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42263,14,NULL,NULL,12 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42264,14,NULL,NULL,13.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42265,14,NULL,NULL,15 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42266,14,NULL,NULL,16.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42267,14,NULL,NULL,18 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42268,14,NULL,NULL,19.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42269,14,NULL,NULL,21 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42270,14,NULL,NULL,22.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42271,14,NULL,NULL,24 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42272,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42273,14,NULL,NULL,43.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42274,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42275,14,NULL,NULL,54 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42276,14,NULL,NULL,57 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42277,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42278,14,NULL,NULL,63 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42279,14,NULL,NULL,66 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42280,14,NULL,NULL,6 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42281,14,NULL,NULL,7.5 in. x 100,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42282,14,NULL,NULL,10.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42283,14,NULL,NULL,12 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42284,14,NULL,NULL,13.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42285,14,NULL,NULL,15 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42286,14,NULL,NULL,16.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42287,14,NULL,NULL,18 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42288,14,NULL,NULL,19.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42289,14,NULL,NULL,21 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42290,14,NULL,NULL,22.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42291,14,NULL,NULL,24 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42292,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42293,14,NULL,NULL,43.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42294,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42295,14,NULL,NULL,54 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42296,14,NULL,NULL,57 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42297,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42298,14,NULL,NULL,63 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42299,14,NULL,NULL,66 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42300,14,NULL,NULL,6 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42301,14,NULL,NULL,7.5 in. x 100,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42302,14,NULL,NULL,10.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42303,14,NULL,NULL,12 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42304,14,NULL,NULL,13.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42305,14,NULL,NULL,15 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42306,14,NULL,NULL,16.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42307,14,NULL,NULL,18 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42308,14,NULL,NULL,19.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42309,14,NULL,NULL,21 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42310,14,NULL,NULL,22.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42311,14,NULL,NULL,24 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42312,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42313,14,NULL,NULL,43.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42314,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42315,14,NULL,NULL,54 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42316,14,NULL,NULL,57 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42317,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42318,14,NULL,NULL,63 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42319,14,NULL,NULL,66 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42320,14,NULL,NULL,6 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42321,14,NULL,NULL,7.5 in. x 100,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42322,14,NULL,NULL,10.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42323,14,NULL,NULL,12 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42324,14,NULL,NULL,13.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42325,14,NULL,NULL,15 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42326,14,NULL,NULL,16.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42327,14,NULL,NULL,18 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42328,14,NULL,NULL,19.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42329,14,NULL,NULL,21 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42330,14,NULL,NULL,22.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42331,14,NULL,NULL,24 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42332,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42333,14,NULL,NULL,43.5 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42334,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42335,14,NULL,NULL,54 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42336,14,NULL,NULL,57 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42337,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42338,14,NULL,NULL,63 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42339,14,NULL,NULL,66 in. x 100 ft.,1 1/2 in. x 1 1/2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Yellow,Vinyl PVC
+42180,14,NULL,NULL,12 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42181,14,NULL,NULL,18 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42182,14,NULL,NULL,24 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42183,14,NULL,NULL,30 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42184,14,NULL,NULL,36 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42185,14,NULL,NULL,48 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42186,14,NULL,NULL,24 in. x 100 ft.,1 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42187,14,NULL,NULL,48 in. x 100 ft.,1 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42188,14,NULL,NULL,48 in. x 100 ft.,1 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42197,14,NULL,NULL,18 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42198,14,NULL,NULL,24 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42199,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42200,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42201,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42202,14,NULL,NULL,36 in. x 100 ft.,1 1/2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42203,14,NULL,NULL,48 in. x 100 ft.,1 1/2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42204,14,NULL,NULL,60 in. x 100 ft.,1 1/2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42205,14,NULL,NULL,36 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42206,14,NULL,NULL,48 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42207,14,NULL,NULL,60 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42208,14,NULL,NULL,72 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42209,14,NULL,NULL,36 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42210,14,NULL,NULL,48 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42211,14,NULL,NULL,60 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42212,14,NULL,NULL,72 in. x 100 ft.,2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+42219,14,NULL,NULL,36 in. x 100 ft.,3 in. x 3 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42340,14,NULL,NULL,72 in. x 100 ft.,1 1/2 in. x 4 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Black,Vinyl PVC
+42421,14,NULL,NULL,48 in. x 100 ft.,2 in. x 2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Green,Vinyl PVC
+43426,14,NULL,NULL,36 in. x 100 ft.,3 in. x 5 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43425,14,NULL,NULL,84 in. x 50 ft.,3 in. x 5 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43424,14,NULL,NULL,72 in. x 50 ft.,3 in. x 5 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42143,14,NULL,NULL,12 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42144,14,NULL,NULL,16 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42145,14,NULL,NULL,18 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42146,14,NULL,NULL,24 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42147,14,NULL,NULL,30 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42148,14,NULL,NULL,36 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42149,14,NULL,NULL,48 in. x 100 ft.,1/2 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42150,14,NULL,NULL,24 in. x 100 ft.,1 in. x 1 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42151,14,NULL,NULL,8 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42152,14,NULL,NULL,9 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42153,14,NULL,NULL,10 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42154,14,NULL,NULL,12 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42155,14,NULL,NULL,15 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42156,14,NULL,NULL,18 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42157,14,NULL,NULL,24 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42158,14,NULL,NULL,30 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42159,14,NULL,NULL,36 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42160,14,NULL,NULL,48 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42161,14,NULL,NULL,30 in. x 100 ft.,1 in. x 1 1/2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42162,14,NULL,NULL,12 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42163,14,NULL,NULL,14 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42164,14,NULL,NULL,18 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42165,14,NULL,NULL,24 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42166,14,NULL,NULL,30 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42167,14,NULL,NULL,36 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42168,14,NULL,NULL,48 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42169,14,NULL,NULL,60 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42170,14,NULL,NULL,72 in. x 100 ft.,1 in. x 2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42171,14,NULL,NULL,36 in. x 300 ft.,3 in. x 3 in.,11 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+42422,14,NULL,NULL,48 in. x 100 ft.,2 in. x 2 in.,10.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43423,14,NULL,NULL,48 in. x 50 ft.,3 in. x 5 in.,12.5 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43448,14,NULL,NULL,48 in. x 100 ft.,2 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43447,14,NULL,NULL,36 in. x 100 ft.,2 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43446,14,NULL,NULL,30 in. x 100 ft.,2 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43445,14,NULL,NULL,24 in. x 100 ft.,2 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43444,14,NULL,NULL,18 in. X 100 ft.,2 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43443,14,NULL,NULL,14 in. x 100 ft.,2 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43442,14,NULL,NULL,12 in. x 100 ft.,2 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43441,14,NULL,NULL,60 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43440,14,NULL,NULL,36 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43439,14,NULL,NULL,32 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43438,14,NULL,NULL,26 in. x 100 ft.,1 in. x 1 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43437,14,NULL,NULL,48 in. x 100 ft.,1 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43436,14,NULL,NULL,36 in. x 100 ft.,1 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43435,14,NULL,NULL,30 in. x 100 ft.,1 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43434,14,NULL,NULL,24 in. x 100 ft.,1 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43433,14,NULL,NULL,18 in. X 100 ft.,1 in. x 1/2 in.,16 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43432,14,NULL,NULL,36 in. x 100 ft.,1 in. x 1/2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43431,14,NULL,NULL,30 in. x 100 ft.,1 in. x 1/2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43430,14,NULL,NULL,24 in. x 100 ft.,1 in. x 1/2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43429,14,NULL,NULL,14 in. x 100 ft.,1 in. x 1/2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43428,14,NULL,NULL,12 in. x 100 ft.,1 in. x 1/2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized
+43427,14,NULL,NULL,11 in. x 100 ft.,1 in. x 1/2 in.,14 Gauge,NULL,NULL,Hot Dipped Galvanized Steel Wire,NULL,Galvanized,Galvanized

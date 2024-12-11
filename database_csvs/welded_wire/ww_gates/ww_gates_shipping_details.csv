@@ -1,0 +1,19 @@
+original_product_id,family_category_id,shipping_details_id,product_id,weight,shipping_length,shipping_width,shipping_height,shipping_class,free_shipping,special_shipping,amount_per_box,description
+40626,11,NULL,NULL,55,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40627,11,NULL,NULL,55,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40628,11,NULL,NULL,60,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40629,11,NULL,NULL,65,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40630,11,NULL,NULL,70,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40631,11,NULL,NULL,80,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40632,11,NULL,NULL,90,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40633,11,NULL,NULL,90,3.0,61.0,73.0,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40634,11,NULL,NULL,90,3.0,61.0,73.0,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40799,11,NULL,NULL,120,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40800,11,NULL,NULL,125,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40801,11,NULL,NULL,130,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40802,11,NULL,NULL,140,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40803,11,NULL,NULL,145,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40804,11,NULL,NULL,150,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40805,11,NULL,NULL,180,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40806,11,NULL,NULL,180,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
+40807,11,NULL,NULL,190,NULL,NULL,NULL,WWGK,0,0,NULL,Academy Fence Company Welded Wire Gate Kits
