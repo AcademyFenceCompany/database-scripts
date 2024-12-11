@@ -1,9 +1,0 @@
-product_id	product_name	seo_name	desc_short	desc_long	color	
-item_no	master_model	parent	cat_id_fk	list	cost	price	ws_price	
-ex_price	weight_lbs	shipable	size	size_ln	size_wt	size_ht	inv_stocked	
-inv_eastorange	inv_orange	inv_processing	inv_ordered	inv_ordered_expect supplier	img_small	
-img_large		ext_domain	featured	enabled	creation	modified	
-inv_mod	mod_by	product_assoc	alt_length	alt_width	alt_height	ship_length	ship_width	
-ship_height	nominal_length	nominal_width	nominal_height	product_relatives	meta_title	
-meta_keywords	add_keywords	meta_description	display_size_2	free_shipping	special_shipping	
-amount_per_box	class
