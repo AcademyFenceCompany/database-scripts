@@ -1,0 +1,10 @@
+original_product_id,family_category_id,shipping_details_id,product_id,weight,shipping_length,shipping_width,shipping_height,shipping_class,free_shipping,special_shipping,amount_per_box,description
+578,13,NULL,NULL,4.6,10,10,61,WWF,0,1,15.0,Academy Fence Company Heavy Duty Knock-In Posts
+579,13,NULL,NULL,5.5,10,10,73,WWF,0,1,10.0,Academy Fence Company Heavy Duty Knock-In Posts
+580,13,NULL,NULL,6.4,10,10,85,WWF,0,1,10.0,Academy Fence Company Heavy Duty Knock-In Posts
+581,13,NULL,NULL,8.0,10,10,97,WWF,0,1,10.0,Academy Fence Company Heavy Duty Knock-In Posts
+5556,13,NULL,NULL,10.5,127,2,2,WWF,0,0,NULL,Academy Fence Company Heavy Duty Knock-In Posts
+16322,13,NULL,NULL,4.6,10,10,61,WWF,0,1,15.0,Academy Fence Company Heavy Duty Knock-In Posts
+16323,13,NULL,NULL,5.5,10,10,73,WWF,0,1,10.0,Academy Fence Company Heavy Duty Knock-In Posts
+16324,13,NULL,NULL,6.4,10,10,85,WWF,0,1,10.0,Academy Fence Company Heavy Duty Knock-In Posts
+16325,13,NULL,NULL,8.0,12,12,97,WWF,0,1,10.0,Academy Fence Company Heavy Duty Knock-In Posts
