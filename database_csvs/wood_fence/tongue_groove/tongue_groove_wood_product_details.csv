@@ -1,0 +1,19 @@
+product_details_id,original_product_id,family_category_id,product_id,size1,size2,size3,style,specialty,material,spacing,color,coating
+NULL,503,20,NULL,NULL,NULL,NULL,Tongue and Groove,NULL,Cedar Wood,NULL,White Cedar,NULL
+NULL,504,20,NULL,NULL,NULL,NULL,Tongue and Groove,Diamond Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,505,20,NULL,NULL,NULL,NULL,Tongue and Groove,Solid Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,1962,20,NULL,4 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,NULL,Cedar Wood,NULL,White Cedar,NULL
+NULL,2598,20,NULL,5 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,NULL,Cedar Wood,NULL,White Cedar,NULL
+NULL,2599,20,NULL,6 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,NULL,Cedar Wood,NULL,White Cedar,NULL
+NULL,2600,20,NULL,4 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Diamond Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,2601,20,NULL,5 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Diamond Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,2602,20,NULL,6 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Diamond Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,2603,20,NULL,4 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Solid Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,2604,20,NULL,5 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Solid Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,2605,20,NULL,6 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Solid Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,43728,20,NULL,NULL,NULL,NULL,Tongue and Groove,NULL,Cedar Wood,NULL,White Cedar,NULL
+NULL,6622,20,NULL,NULL,NULL,NULL,Tongue and Groove,Square Lattice Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,6623,20,NULL,4 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Square Lattice Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,6624,20,NULL,5 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Square Lattice Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,6625,20,NULL,6 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Square Lattice Top,Cedar Wood,NULL,White Cedar,NULL
+NULL,36625,20,NULL,7 ft. H x 8 ft. W,NULL,NULL,Tongue and Groove,Solid Top,Cedar Wood,NULL,White Cedar,NULL
